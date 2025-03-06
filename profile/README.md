@@ -29,10 +29,10 @@ Nous préparons une **documentation complète** pour faciliter l'intégration de
 
 ## 🚀 Prêt à nous rejoindre ?
 - Site web : [skygenesisenterprise.com](http://skygenesisenterprise.com)
-- Email : [contact@skygenesisenterprise.com]contact@skygenesisenterprise.com
+- Email : [contact@skygenesisenterprise.com](contact@skygenesisenterprise.com)
 
 ---
 
 **Suivez-nous pour plus de mises à jour :**
-- Twitter : [@SkyGenesisEnt](https://twitter.com)
+- Twitter : [@SkyGEnterprise](https://x.com/SkyGEnterprise)
 - LinkedIn : [Sky Genesis Enterprise](https://linkedin.com)
