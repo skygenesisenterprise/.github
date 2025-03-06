@@ -28,7 +28,7 @@ Nous recherchons activement des talents passionnés pour nous rejoindre. Si tu v
 Nous préparons une **documentation complète** pour faciliter l'intégration de nouveaux contributeurs. Si tu veux en savoir plus sur nos projets actuels ou futurs, reste connecté ! **L’aventure ne fait que commencer.**
 
 ## 🚀 Prêt à nous rejoindre ?
-- Site web : [skygenesisenterprise.com](http://skygenesisenterprise.com)
+- Site web : [https://skygenesisenterprise.com](http://skygenesisenterprise.com)
 - Email : [contact@skygenesisenterprise.com](mailto:contact@skygenesisenterprise.com)
 
 ---
