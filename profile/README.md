@@ -29,7 +29,7 @@ Nous préparons une **documentation complète** pour faciliter l'intégration de
 
 ## 🚀 Prêt à nous rejoindre ?
 - Site web : [skygenesisenterprise.com](http://skygenesisenterprise.com)
-- Email : [contact@skygenesisenterprise.com](contact@skygenesisenterprise.com)
+- Email : [contact@skygenesisenterprise.com](mailto:contact@skygenesisenterprise.com)
 
 ---
 
