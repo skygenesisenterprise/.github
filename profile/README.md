@@ -35,6 +35,6 @@ Nous préparons une **documentation complète** pour faciliter l'intégration de
 ---
 
 **Suivez-nous pour plus de mises à jour :**
-- Twitter : [@SkyGEnterprise](https://x.com/SkyGEnterprise)
+- Twitter : [Sky Genesis Enterprise](https://x.com/SkyGEnterprise)
 - LinkedIn : [Sky Genesis Enterprise](https://linkedin.com)
 - Discord : [Sky Genesis Enterprise](https://discord.gg/skygenesisenterprise)
