@@ -11,7 +11,7 @@ Sky Genesis Enterprise est une entreprise tech révolutionnaire, dédiée à tra
 - **Solutions Automobiles** : La réinvention des technologies automobiles avec des solutions à la fois innovantes et durables.
 
 ### Ce que nous faisons :
-- **Construire l’avenir** : Nous développons des solutions qui n’ont pas encore vu le jour mais qui transformeront demain. SkyGenesisEnterprise est là pour **façonner un monde meilleur** à travers la technologie.
+- **Construire l’avenir** : Nous développons des solutions qui n’ont pas encore vu le jour mais qui transformeront demain. Sky Genesis Enterprise est là pour **façonner un monde meilleur** à travers la technologie.
 
 ## 🚧 Ce qui arrive prochainement :
 Nous sommes en pleine phase de **lancement** et avons des projets incroyables sur la table. Que ce soit **QuantumOS**, notre **satellite aérospatial**, ou nos **solutions automobiles**, chaque projet est une étape vers l'avenir que nous avons imaginé. **Rejoignez-nous**, contribuez, et faites partie de cette aventure.
