@@ -8,7 +8,7 @@ Sky Genesis Enterprise est une entreprise tech révolutionnaire, dédiée à tra
 ### Nos projets en cours :
 - **Aether Office**: Une suite office enitèrement Open-Source qui met l'accent sur la protection des données utilisateurs et des lois Européennes.
 - **QuantumOS** : Un système d'exploitation ultra-sécurisé et ultra-performant, conçu pour le futur des technologies.
-- **Solutions Automobiles** : La réinvention des technologies automobiles avec des solutions à la fois innovantes et durables.
+- **Service API** : Un service centralisé qui permet d'interconnecté différent outils et applications entre eux.
 
 ### Ce que nous faisons :
 - **Construire l’avenir** : Nous développons des solutions qui n’ont pas encore vu le jour mais qui transformeront demain. Sky Genesis Enterprise est là pour **façonner un monde meilleur** à travers la technologie.
