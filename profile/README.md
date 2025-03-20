@@ -2,39 +2,39 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liamvnastoria&label=Profile%20views&color=0e75b6&style=flat" alt="liamvnastoria" /> </p>
 
-## 🚀 Qui sommes-nous ?
-Sky Genesis Enterprise est une entreprise tech révolutionnaire, dédiée à transformer les industries aérospatiale, automobile et le développement logiciel. Nous créons des technologies de pointe, avec un objectif clair : repousser les limites de l'innovation et faire avancer l’avenir. Notre approche se base sur l'exploration, l'exécution et la création de solutions durables et intelligentes.
+## 🚀 Who are we?
+Sky Genesis Enterprise is a revolutionary tech company dedicated to transforming the aerospace, automotive, and software development industries. We create cutting-edge technologies with a clear goal: pushing the boundaries of innovation and advancing the future. Our approach is based on exploration, execution, and the creation of sustainable and intelligent solutions.
 
-### Nos projets en cours :
-- **Aether Office**: Une suite office enitèrement Open-Source qui met l'accent sur la protection des données utilisateurs et des lois Européennes.
-- **QuantumOS** : Un système d'exploitation ultra-sécurisé et ultra-performant, conçu pour le futur des technologies.
-- **Service API** : Un service centralisé qui permet d'interconnecté différent outils et applications entre eux.
+### Our ongoing projects:
+- **Aether Office**: A fully Open-Source office suite that focuses on user data protection and European laws.
+- **QuantumOS**: An ultra-secure and ultra-high-performance operating system designed for the future of technology.
+- **API Service**: A centralized service that allows the interconnection of various tools and applications.
 
-### Ce que nous faisons :
-- **Construire l’avenir** : Nous développons des solutions qui n’ont pas encore vu le jour mais qui transformeront demain. Sky Genesis Enterprise est là pour **façonner un monde meilleur** à travers la technologie.
+### What we do:
+- **Building the future**: We develop solutions that haven’t been seen yet but will transform tomorrow. Sky Genesis Enterprise is here to **shape a better world** through technology.
 
-## 🚧 Ce qui arrive prochainement :
-Nous sommes en pleine phase de **lancement** et avons des projets incroyables sur la table. Que ce soit **QuantumOS**, notre **satellite aérospatial**, ou nos **solutions automobiles**, chaque projet est une étape vers l'avenir que nous avons imaginé. **Rejoignez-nous**, contribuez, et faites partie de cette aventure.
+## 🚧 Coming soon:
+We are currently in the **launch phase** and have incredible projects on the table. Whether it’s **QuantumOS**, our **aerospace satellite**, or our **automotive solutions**, every project is a step towards the future we’ve envisioned. **Join us**, contribute, and be part of this journey.
 
-## 💡 Contribuer
-Tu as une idée qui peut changer la donne ? Tu veux aider à construire des projets technologiques de demain ?
-Nous recherchons activement des talents passionnés pour nous rejoindre. Si tu veux travailler sur **QuantumOS**, participer à des projets aérospatiaux ou dans le domaine automobile, on veut discuter avec toi !
+## 💡 Contribute
+Do you have an idea that could make a difference? Do you want to help build tomorrow's tech projects?  
+We are actively looking for passionate talents to join us. If you want to work on **QuantumOS**, participate in aerospace or automotive projects, we want to talk to you!
 
-### Comment contribuer :
-1. Fork ce repository
-2. Crée une branche de fonctionnalité ou de correction de bug
-3. Soumets ta Pull Request
+### How to contribute:
+1. Fork this repository
+2. Create a feature or bug-fix branch
+3. Submit your Pull Request
 
-## 📚 Documentation (En cours)
-Nous préparons une **documentation complète** pour faciliter l'intégration de nouveaux contributeurs. Si tu veux en savoir plus sur nos projets actuels ou futurs, reste connecté ! **L’aventure ne fait que commencer.**
+## 📚 Documentation (In Progress)
+We are preparing **comprehensive documentation** to facilitate the integration of new contributors. If you want to learn more about our current or future projects, stay tuned! **The adventure is just beginning.**
 
-## 🚀 Prêt à nous rejoindre ?
-- Site web : [https://skygenesisenterprise.com](http://skygenesisenterprise.com)
-- Email : [contact@skygenesisenterprise.com](mailto:contact@skygenesisenterprise.com)
+## 🚀 Ready to join us?
+- Website: [https://skygenesisenterprise.com](http://skygenesisenterprise.com)
+- Email: [contact@skygenesisenterprise.com](mailto:contact@skygenesisenterprise.com)
 
 ---
 
-**Suivez-nous pour plus de mises à jour :**
-- Twitter : [Sky Genesis Enterprise](https://x.com/SkyGEnterprise)
-- LinkedIn : [Sky Genesis Enterprise](https://linkedin.com)
-- Discord : [Sky Genesis Enterprise](https://discord.gg/skygenesisenterprise)
+**Follow us for more updates:**
+- Twitter: [Sky Genesis Enterprise](https://x.com/SkyGEnterprise)
+- LinkedIn: [Sky Genesis Enterprise](https://linkedin.com)
+- Discord: [Sky Genesis Enterprise](https://discord.gg/skygenesisenterprise)
