@@ -37,4 +37,4 @@ We are preparing **comprehensive documentation** to facilitate the integration o
 **Follow us for more updates:**
 - Twitter: [Sky Genesis Enterprise](https://x.com/SkyGEnterprise)
 - LinkedIn: [Sky Genesis Enterprise](https://linkedin.com)
-- Discord: [Sky Genesis Enterprise](https://discord.gg/skygenesisenterprise)
+- Discord: [Sky Genesis Enterprise](https://discord.gg/uZjsdKJqnb)
