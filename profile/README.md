@@ -1,4 +1,4 @@
-# Welcome to the Sky Genesis Enterprise Open Source Ecosystem 🌍
+# Welcome to the SGE Open Source Ecosystem 🌍
 
 Hello and welcome!  
 This repository is part of the **Sky Genesis Enterprise (SGE)** open-source initiative.  
